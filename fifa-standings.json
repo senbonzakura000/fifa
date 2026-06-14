@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-14 03:06:23",
+  "updated_at": "2026-06-14 07:59:54",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -273,38 +273,38 @@
             {
               "rank": 2,
               "rank_status": "16th Finals",
+              "team_id": "bl4fd8cxe6kjvjx8br82gkhnq",
+              "team_name": "Australia",
+              "team_short_name": "Australia",
+              "team_code": "AUS",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/australia.png",
+              "points": 3,
+              "matches_played": 1,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "goals_for": 2,
+              "goals_against": 0,
+              "goal_difference": "+2",
+              "last_six": "W"
+            },
+            {
+              "rank": 3,
+              "rank_status": "Possible 16th Finals",
               "team_id": "9s2kpeunkes0g17l95r3t91j6",
               "team_name": "Türkiye",
               "team_short_name": "Türkiye",
               "team_code": "TUR",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/turkiye.png",
               "points": 0,
-              "matches_played": 0,
+              "matches_played": 1,
               "wins": 0,
               "draws": 0,
-              "losses": 0,
+              "losses": 1,
               "goals_for": 0,
-              "goals_against": 0,
-              "goal_difference": "0",
-              "last_six": ""
-            },
-            {
-              "rank": 3,
-              "rank_status": "Possible 16th Finals",
-              "team_id": "bl4fd8cxe6kjvjx8br82gkhnq",
-              "team_name": "Australia",
-              "team_short_name": "Australia",
-              "team_code": "AUS",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/australia.png",
-              "points": 0,
-              "matches_played": 0,
-              "wins": 0,
-              "draws": 0,
-              "losses": 0,
-              "goals_for": 0,
-              "goals_against": 0,
-              "goal_difference": "0",
-              "last_six": ""
+              "goals_against": 2,
+              "goal_difference": "-2",
+              "last_six": "L"
             },
             {
               "rank": 4,
@@ -1002,24 +1002,6 @@
             {
               "rank": 3,
               "rank_status": "16th Finals",
-              "team_id": "bl4fd8cxe6kjvjx8br82gkhnq",
-              "team_name": "Australia",
-              "team_short_name": "Australia",
-              "team_code": "AUS",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/australia.png",
-              "points": 0,
-              "matches_played": 0,
-              "wins": 0,
-              "draws": 0,
-              "losses": 0,
-              "goals_for": 0,
-              "goals_against": 0,
-              "goal_difference": "0",
-              "last_six": ""
-            },
-            {
-              "rank": 4,
-              "rank_status": "16th Finals",
               "team_id": "61g4epojd5f198lv1sje27yh3",
               "team_name": "Austria",
               "team_short_name": "Austria",
@@ -1036,7 +1018,7 @@
               "last_six": ""
             },
             {
-              "rank": 5,
+              "rank": 4,
               "rank_status": "16th Finals",
               "team_id": "39d8zamp9tvg3wc51jxc2a1c0",
               "team_name": "Côte d'Ivoire",
@@ -1054,7 +1036,7 @@
               "last_six": ""
             },
             {
-              "rank": 6,
+              "rank": 5,
               "rank_status": "16th Finals",
               "team_id": "9bix8nlt6cgbson25qntg2zzh",
               "team_name": "Ghana",
@@ -1072,7 +1054,7 @@
               "last_six": ""
             },
             {
-              "rank": 7,
+              "rank": 6,
               "rank_status": "16th Finals",
               "team_id": "cubclbw5k5gdqdau95bnav0nn",
               "team_name": "IR Iran",
@@ -1090,7 +1072,7 @@
               "last_six": ""
             },
             {
-              "rank": 8,
+              "rank": 7,
               "rank_status": "16th Finals",
               "team_id": "7u6a9femhquay3jnk6ysgiwx9",
               "team_name": "Iraq",
@@ -1108,8 +1090,8 @@
               "last_six": ""
             },
             {
-              "rank": 9,
-              "rank_status": "",
+              "rank": 8,
+              "rank_status": "16th Finals",
               "team_id": "9l4imoomrnyceg5u3kdxf5l5r",
               "team_name": "Saudi Arabia",
               "team_short_name": "Saudi Arabia",
@@ -1126,7 +1108,7 @@
               "last_six": ""
             },
             {
-              "rank": 10,
+              "rank": 9,
               "rank_status": "",
               "team_id": "4w1ktgu1nbbgqfe3ssbb4fg5v",
               "team_name": "Sweden",
@@ -1144,7 +1126,7 @@
               "last_six": ""
             },
             {
-              "rank": 11,
+              "rank": 10,
               "rank_status": "",
               "team_id": "elayenut7wtobtmg7hyujzdoe",
               "team_name": "Uzbekistan",
@@ -1162,7 +1144,7 @@
               "last_six": ""
             },
             {
-              "rank": 12,
+              "rank": 11,
               "rank_status": "",
               "team_id": "70tnqyqn871jwlk26gtjw7knm",
               "team_name": "Czechia",
@@ -1177,6 +1159,24 @@
               "goals_for": 1,
               "goals_against": 2,
               "goal_difference": "-1",
+              "last_six": ""
+            },
+            {
+              "rank": 12,
+              "rank_status": "",
+              "team_id": "9s2kpeunkes0g17l95r3t91j6",
+              "team_name": "Türkiye",
+              "team_short_name": "Türkiye",
+              "team_code": "TUR",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/turkiye.png",
+              "points": 0,
+              "matches_played": 1,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "goals_for": 0,
+              "goals_against": 2,
+              "goal_difference": "-2",
               "last_six": ""
             }
           ]
