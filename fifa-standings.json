@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-16 19:27:38",
+  "updated_at": "2026-06-16 21:59:52",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -655,37 +655,19 @@
               "team_short_name": "France",
               "team_code": "FRA",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/france.png",
-              "points": 1,
+              "points": 3,
               "matches_played": 1,
-              "wins": 0,
-              "draws": 1,
+              "wins": 1,
+              "draws": 0,
               "losses": 0,
-              "goals_for": 0,
-              "goals_against": 0,
-              "goal_difference": "0",
-              "last_six": ""
+              "goals_for": 3,
+              "goals_against": 1,
+              "goal_difference": "+2",
+              "last_six": "W"
             },
             {
               "rank": 2,
               "rank_status": "16th Finals",
-              "team_id": "2wk1549tkz80oet8226euj7jp",
-              "team_name": "Senegal",
-              "team_short_name": "Senegal",
-              "team_code": "SEN",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/senegal.png",
-              "points": 1,
-              "matches_played": 1,
-              "wins": 0,
-              "draws": 1,
-              "losses": 0,
-              "goals_for": 0,
-              "goals_against": 0,
-              "goal_difference": "0",
-              "last_six": ""
-            },
-            {
-              "rank": 3,
-              "rank_status": "Possible 16th Finals",
               "team_id": "7u6a9femhquay3jnk6ysgiwx9",
               "team_name": "Iraq",
               "team_short_name": "Iraq",
@@ -702,8 +684,8 @@
               "last_six": ""
             },
             {
-              "rank": 4,
-              "rank_status": "",
+              "rank": 3,
+              "rank_status": "Possible 16th Finals",
               "team_id": "e1vf7kzswllumuykwezkrbo70",
               "team_name": "Norway",
               "team_short_name": "Norway",
@@ -718,6 +700,24 @@
               "goals_against": 0,
               "goal_difference": "0",
               "last_six": ""
+            },
+            {
+              "rank": 4,
+              "rank_status": "",
+              "team_id": "2wk1549tkz80oet8226euj7jp",
+              "team_name": "Senegal",
+              "team_short_name": "Senegal",
+              "team_code": "SEN",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/senegal.png",
+              "points": 0,
+              "matches_played": 1,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "goals_for": 1,
+              "goals_against": 3,
+              "goal_difference": "-2",
+              "last_six": "L"
             }
           ]
         },
@@ -1092,11 +1092,11 @@
             {
               "rank": 8,
               "rank_status": "16th Finals",
-              "team_id": "7u6a9femhquay3jnk6ysgiwx9",
-              "team_name": "Iraq",
-              "team_short_name": "Iraq",
-              "team_code": "IRQ",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/iraq.png",
+              "team_id": "e1vf7kzswllumuykwezkrbo70",
+              "team_name": "Norway",
+              "team_short_name": "Norway",
+              "team_code": "NOR",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/norway.png",
               "points": 0,
               "matches_played": 0,
               "wins": 0,
