@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-19 17:29:01",
+  "updated_at": "2026-06-19 19:14:29",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -260,14 +260,14 @@
               "team_short_name": "United States",
               "team_code": "USA",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/usa.png",
-              "points": 3,
-              "matches_played": 1,
-              "wins": 1,
+              "points": 6,
+              "matches_played": 2,
+              "wins": 2,
               "draws": 0,
               "losses": 0,
-              "goals_for": 4,
+              "goals_for": 5,
               "goals_against": 1,
-              "goal_difference": "+3",
+              "goal_difference": "+4",
               "last_six": "W"
             },
             {
@@ -279,13 +279,13 @@
               "team_code": "AUS",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/australia.png",
               "points": 3,
-              "matches_played": 1,
+              "matches_played": 2,
               "wins": 1,
               "draws": 0,
-              "losses": 0,
+              "losses": 1,
               "goals_for": 2,
-              "goals_against": 0,
-              "goal_difference": "+2",
+              "goals_against": 1,
+              "goal_difference": "+1",
               "last_six": "W"
             },
             {
