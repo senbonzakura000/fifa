@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-20 03:50:00",
+  "updated_at": "2026-06-20 07:42:03",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -304,7 +304,7 @@
               "goals_for": 2,
               "goals_against": 4,
               "goal_difference": "-2",
-              "last_six": "L"
+              "last_six": "WL"
             },
             {
               "rank": 4,
@@ -322,7 +322,7 @@
               "goals_for": 0,
               "goals_against": 3,
               "goal_difference": "-3",
-              "last_six": "L"
+              "last_six": "LL"
             }
           ]
         },
