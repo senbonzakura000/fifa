@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-22 16:26:16",
+  "updated_at": "2026-06-22 19:52:42",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -734,15 +734,15 @@
               "team_short_name": "Argentina",
               "team_code": "ARG",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/argentina.png",
-              "points": 3,
-              "matches_played": 1,
-              "wins": 1,
+              "points": 6,
+              "matches_played": 2,
+              "wins": 2,
               "draws": 0,
               "losses": 0,
-              "goals_for": 3,
+              "goals_for": 5,
               "goals_against": 0,
-              "goal_difference": "+3",
-              "last_six": "W"
+              "goal_difference": "+5",
+              "last_six": "WW"
             },
             {
               "rank": 2,
@@ -753,14 +753,14 @@
               "team_code": "AUT",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/austria.png",
               "points": 3,
-              "matches_played": 1,
+              "matches_played": 2,
               "wins": 1,
               "draws": 0,
-              "losses": 0,
+              "losses": 1,
               "goals_for": 3,
-              "goals_against": 1,
-              "goal_difference": "+2",
-              "last_six": "W"
+              "goals_against": 3,
+              "goal_difference": "0",
+              "last_six": "LW"
             },
             {
               "rank": 3,
