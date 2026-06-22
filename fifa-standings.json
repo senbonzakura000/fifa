@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-21 22:59:27",
+  "updated_at": "2026-06-22 00:13:17",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -594,15 +594,15 @@
               "team_short_name": "Uruguay",
               "team_code": "URU",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/uruguay.png",
-              "points": 4,
+              "points": 2,
               "matches_played": 2,
-              "wins": 1,
-              "draws": 1,
+              "wins": 0,
+              "draws": 2,
               "losses": 0,
               "goals_for": 3,
-              "goals_against": 2,
-              "goal_difference": "+1",
-              "last_six": "D"
+              "goals_against": 3,
+              "goal_difference": "0",
+              "last_six": "DD"
             },
             {
               "rank": 3,
@@ -612,15 +612,15 @@
               "team_short_name": "Cabo Verde",
               "team_code": "CPV",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/cabo-verde.png",
-              "points": 1,
+              "points": 2,
               "matches_played": 2,
               "wins": 0,
-              "draws": 1,
-              "losses": 1,
-              "goals_for": 1,
+              "draws": 2,
+              "losses": 0,
+              "goals_for": 2,
               "goals_against": 2,
-              "goal_difference": "-1",
-              "last_six": "D"
+              "goal_difference": "0",
+              "last_six": "DD"
             },
             {
               "rank": 4,
@@ -1020,6 +1020,24 @@
             {
               "rank": 4,
               "rank_status": "16th Finals",
+              "team_id": "1iq69zi4oze3oh0cis0s5wb7o",
+              "team_name": "Cabo Verde",
+              "team_short_name": "Cabo Verde",
+              "team_code": "CPV",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/cabo-verde.png",
+              "points": 2,
+              "matches_played": 2,
+              "wins": 0,
+              "draws": 2,
+              "losses": 0,
+              "goals_for": 2,
+              "goals_against": 2,
+              "goal_difference": "0",
+              "last_six": ""
+            },
+            {
+              "rank": 5,
+              "rank_status": "16th Finals",
               "team_id": "bhu61cgwm07e2pik1jqmnztgl",
               "team_name": "New Zealand",
               "team_short_name": "New Zealand",
@@ -1036,7 +1054,7 @@
               "last_six": ""
             },
             {
-              "rank": 5,
+              "rank": 6,
               "rank_status": "16th Finals",
               "team_id": "8gxg8f7p9299jbrz30u8bsc7g",
               "team_name": "Portugal",
@@ -1054,7 +1072,7 @@
               "last_six": ""
             },
             {
-              "rank": 6,
+              "rank": 7,
               "rank_status": "16th Finals",
               "team_id": "70tnqyqn871jwlk26gtjw7knm",
               "team_name": "Czechia",
@@ -1072,7 +1090,7 @@
               "last_six": ""
             },
             {
-              "rank": 7,
+              "rank": 8,
               "rank_status": "16th Finals",
               "team_id": "2j2402oabiovxw24cnjk9m369",
               "team_name": "Ecuador",
@@ -1090,8 +1108,8 @@
               "last_six": ""
             },
             {
-              "rank": 8,
-              "rank_status": "16th Finals",
+              "rank": 9,
+              "rank_status": "",
               "team_id": "o5iztj2zl6b0v6ed9q5m7p1k",
               "team_name": "Bosnia-Herzegovina",
               "team_short_name": "Bosnia",
@@ -1105,24 +1123,6 @@
               "goals_for": 2,
               "goals_against": 5,
               "goal_difference": "-3",
-              "last_six": ""
-            },
-            {
-              "rank": 9,
-              "rank_status": "",
-              "team_id": "1iq69zi4oze3oh0cis0s5wb7o",
-              "team_name": "Cabo Verde",
-              "team_short_name": "Cabo Verde",
-              "team_code": "CPV",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/cabo-verde.png",
-              "points": 1,
-              "matches_played": 2,
-              "wins": 0,
-              "draws": 1,
-              "losses": 1,
-              "goals_for": 1,
-              "goals_against": 2,
-              "goal_difference": "-1",
               "last_six": ""
             },
             {
