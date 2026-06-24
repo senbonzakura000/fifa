@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-24 22:47:07",
+  "updated_at": "2026-06-24 23:57:36",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -186,9 +186,9 @@
               "wins": 2,
               "draws": 1,
               "losses": 0,
-              "goals_for": 5,
+              "goals_for": 7,
               "goals_against": 1,
-              "goal_difference": "+4",
+              "goal_difference": "+6",
               "last_six": "WD"
             },
             {
@@ -199,14 +199,14 @@
               "team_short_name": "Morocco",
               "team_code": "MAR",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/morocco.png",
-              "points": 5,
+              "points": 7,
               "matches_played": 3,
-              "wins": 1,
-              "draws": 2,
+              "wins": 2,
+              "draws": 1,
               "losses": 0,
-              "goals_for": 4,
+              "goals_for": 6,
               "goals_against": 3,
-              "goal_difference": "+1",
+              "goal_difference": "+3",
               "last_six": "WD"
             },
             {
@@ -223,8 +223,8 @@
               "draws": 0,
               "losses": 2,
               "goals_for": 1,
-              "goals_against": 2,
-              "goal_difference": "-1",
+              "goals_against": 4,
+              "goal_difference": "-3",
               "last_six": "LW"
             },
             {
@@ -235,14 +235,14 @@
               "team_short_name": "Haiti",
               "team_code": "HAI",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/haiti.png",
-              "points": 1,
+              "points": 0,
               "matches_played": 3,
               "wins": 0,
-              "draws": 1,
-              "losses": 2,
+              "draws": 0,
+              "losses": 3,
               "goals_for": 2,
-              "goals_against": 6,
-              "goal_difference": "-4",
+              "goals_against": 8,
+              "goal_difference": "-6",
               "last_six": "LL"
             }
           ]
@@ -1020,24 +1020,6 @@
             {
               "rank": 4,
               "rank_status": "16th Finals",
-              "team_id": "bcllqlzvj9j7opjene2zvran7",
-              "team_name": "Scotland",
-              "team_short_name": "Scotland",
-              "team_code": "SCO",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/scotland.png",
-              "points": 3,
-              "matches_played": 3,
-              "wins": 1,
-              "draws": 0,
-              "losses": 2,
-              "goals_for": 1,
-              "goals_against": 2,
-              "goal_difference": "-1",
-              "last_six": ""
-            },
-            {
-              "rank": 5,
-              "rank_status": "16th Finals",
               "team_id": "cbx8lz7loz866tsoawwrpxyl9",
               "team_name": "Algeria",
               "team_short_name": "Algeria",
@@ -1054,7 +1036,7 @@
               "last_six": ""
             },
             {
-              "rank": 6,
+              "rank": 5,
               "rank_status": "16th Finals",
               "team_id": "3cwjdmekfdouwg990mqdq9fh0",
               "team_name": "Paraguay",
@@ -1069,6 +1051,24 @@
               "goals_for": 2,
               "goals_against": 4,
               "goal_difference": "-2",
+              "last_six": ""
+            },
+            {
+              "rank": 6,
+              "rank_status": "16th Finals",
+              "team_id": "bcllqlzvj9j7opjene2zvran7",
+              "team_name": "Scotland",
+              "team_short_name": "Scotland",
+              "team_code": "SCO",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/scotland.png",
+              "points": 3,
+              "matches_played": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 2,
+              "goals_for": 1,
+              "goals_against": 4,
+              "goal_difference": "-3",
               "last_six": ""
             },
             {
