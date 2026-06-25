@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-24 23:57:36",
+  "updated_at": "2026-06-25 02:51:57",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -23,45 +23,27 @@
               "team_short_name": "Mexico",
               "team_code": "MEX",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/mexico.png",
-              "points": 6,
-              "matches_played": 2,
-              "wins": 2,
+              "points": 9,
+              "matches_played": 3,
+              "wins": 3,
               "draws": 0,
               "losses": 0,
-              "goals_for": 3,
+              "goals_for": 5,
               "goals_against": 0,
-              "goal_difference": "+3",
+              "goal_difference": "+5",
               "last_six": "WW"
             },
             {
               "rank": 2,
               "rank_status": "16th Finals",
-              "team_id": "1yghbv1c71b37eenutbwnvvq",
-              "team_name": "Korea Republic",
-              "team_short_name": "Korea Rep",
-              "team_code": "KOR",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/korea-republic.png",
-              "points": 3,
-              "matches_played": 2,
+              "team_id": "xmip8t9f2kefltjkraxzsxl9",
+              "team_name": "South Africa",
+              "team_short_name": "South Africa",
+              "team_code": "RSA",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/south-africa.png",
+              "points": 4,
+              "matches_played": 3,
               "wins": 1,
-              "draws": 0,
-              "losses": 1,
-              "goals_for": 2,
-              "goals_against": 2,
-              "goal_difference": "0",
-              "last_six": "LW"
-            },
-            {
-              "rank": 3,
-              "rank_status": "Possible 16th Finals",
-              "team_id": "70tnqyqn871jwlk26gtjw7knm",
-              "team_name": "Czechia",
-              "team_short_name": "Czechia",
-              "team_code": "CZE",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/czechia.png",
-              "points": 1,
-              "matches_played": 2,
-              "wins": 0,
               "draws": 1,
               "losses": 1,
               "goals_for": 2,
@@ -70,21 +52,39 @@
               "last_six": "DL"
             },
             {
+              "rank": 3,
+              "rank_status": "Possible 16th Finals",
+              "team_id": "1yghbv1c71b37eenutbwnvvq",
+              "team_name": "Korea Republic",
+              "team_short_name": "Korea Rep",
+              "team_code": "KOR",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/korea-republic.png",
+              "points": 3,
+              "matches_played": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 2,
+              "goals_for": 2,
+              "goals_against": 3,
+              "goal_difference": "-1",
+              "last_six": "LW"
+            },
+            {
               "rank": 4,
               "rank_status": "",
-              "team_id": "xmip8t9f2kefltjkraxzsxl9",
-              "team_name": "South Africa",
-              "team_short_name": "South Africa",
-              "team_code": "RSA",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/south-africa.png",
+              "team_id": "70tnqyqn871jwlk26gtjw7knm",
+              "team_name": "Czechia",
+              "team_short_name": "Czechia",
+              "team_code": "CZE",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/czechia.png",
               "points": 1,
-              "matches_played": 2,
+              "matches_played": 3,
               "wins": 0,
               "draws": 1,
-              "losses": 1,
-              "goals_for": 1,
-              "goals_against": 3,
-              "goal_difference": "-2",
+              "losses": 2,
+              "goals_for": 2,
+              "goals_against": 5,
+              "goal_difference": "-3",
               "last_six": "DL"
             }
           ]
@@ -189,7 +189,7 @@
               "goals_for": 7,
               "goals_against": 1,
               "goal_difference": "+6",
-              "last_six": "WD"
+              "last_six": "WWD"
             },
             {
               "rank": 2,
@@ -207,7 +207,7 @@
               "goals_for": 6,
               "goals_against": 3,
               "goal_difference": "+3",
-              "last_six": "WD"
+              "last_six": "WWD"
             },
             {
               "rank": 3,
@@ -225,7 +225,7 @@
               "goals_for": 1,
               "goals_against": 4,
               "goal_difference": "-3",
-              "last_six": "LW"
+              "last_six": "LLW"
             },
             {
               "rank": 4,
@@ -243,7 +243,7 @@
               "goals_for": 2,
               "goals_against": 8,
               "goal_difference": "-6",
-              "last_six": "LL"
+              "last_six": "LLL"
             }
           ]
         },
@@ -1020,6 +1020,24 @@
             {
               "rank": 4,
               "rank_status": "16th Finals",
+              "team_id": "1yghbv1c71b37eenutbwnvvq",
+              "team_name": "Korea Republic",
+              "team_short_name": "Korea Rep",
+              "team_code": "KOR",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/korea-republic.png",
+              "points": 3,
+              "matches_played": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 2,
+              "goals_for": 2,
+              "goals_against": 3,
+              "goal_difference": "-1",
+              "last_six": ""
+            },
+            {
+              "rank": 5,
+              "rank_status": "16th Finals",
               "team_id": "cbx8lz7loz866tsoawwrpxyl9",
               "team_name": "Algeria",
               "team_short_name": "Algeria",
@@ -1036,7 +1054,7 @@
               "last_six": ""
             },
             {
-              "rank": 5,
+              "rank": 6,
               "rank_status": "16th Finals",
               "team_id": "3cwjdmekfdouwg990mqdq9fh0",
               "team_name": "Paraguay",
@@ -1054,7 +1072,7 @@
               "last_six": ""
             },
             {
-              "rank": 6,
+              "rank": 7,
               "rank_status": "16th Finals",
               "team_id": "bcllqlzvj9j7opjene2zvran7",
               "team_name": "Scotland",
@@ -1072,7 +1090,7 @@
               "last_six": ""
             },
             {
-              "rank": 7,
+              "rank": 8,
               "rank_status": "16th Finals",
               "team_id": "1iq69zi4oze3oh0cis0s5wb7o",
               "team_name": "Cabo Verde",
@@ -1090,8 +1108,8 @@
               "last_six": ""
             },
             {
-              "rank": 8,
-              "rank_status": "16th Finals",
+              "rank": 9,
+              "rank_status": "",
               "team_id": "pfvmhackqyhhk02majd2tb8l",
               "team_name": "Belgium",
               "team_short_name": "Belgium",
@@ -1105,24 +1123,6 @@
               "goals_for": 1,
               "goals_against": 1,
               "goal_difference": "0",
-              "last_six": ""
-            },
-            {
-              "rank": 9,
-              "rank_status": "",
-              "team_id": "70tnqyqn871jwlk26gtjw7knm",
-              "team_name": "Czechia",
-              "team_short_name": "Czechia",
-              "team_code": "CZE",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/czechia.png",
-              "points": 1,
-              "matches_played": 2,
-              "wins": 0,
-              "draws": 1,
-              "losses": 1,
-              "goals_for": 2,
-              "goals_against": 3,
-              "goal_difference": "-1",
               "last_six": ""
             },
             {
