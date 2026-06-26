@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-25 23:21:02",
+  "updated_at": "2026-06-26 01:34:44",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -423,10 +423,10 @@
               "wins": 2,
               "draws": 1,
               "losses": 0,
-              "goals_for": 9,
-              "goals_against": 3,
+              "goals_for": 10,
+              "goals_against": 4,
               "goal_difference": "+6",
-              "last_six": "WD"
+              "last_six": "WWD"
             },
             {
               "rank": 2,
@@ -441,10 +441,10 @@
               "wins": 1,
               "draws": 2,
               "losses": 0,
-              "goals_for": 6,
-              "goals_against": 2,
+              "goals_for": 7,
+              "goals_against": 3,
               "goal_difference": "+4",
-              "last_six": "WD"
+              "last_six": "DWD"
             },
             {
               "rank": 3,
@@ -459,10 +459,10 @@
               "wins": 1,
               "draws": 1,
               "losses": 1,
-              "goals_for": 6,
-              "goals_against": 6,
+              "goals_for": 7,
+              "goals_against": 7,
               "goal_difference": "0",
-              "last_six": "LW"
+              "last_six": "DLW"
             },
             {
               "rank": 4,
@@ -477,10 +477,10 @@
               "wins": 0,
               "draws": 0,
               "losses": 3,
-              "goals_for": 1,
-              "goals_against": 11,
+              "goals_for": 2,
+              "goals_against": 12,
               "goal_difference": "-10",
-              "last_six": "LL"
+              "last_six": "LLL"
             }
           ]
         },
@@ -976,8 +976,8 @@
               "wins": 1,
               "draws": 1,
               "losses": 1,
-              "goals_for": 6,
-              "goals_against": 6,
+              "goals_for": 7,
+              "goals_against": 7,
               "goal_difference": "0",
               "last_six": ""
             },
