@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-26 19:13:42",
+  "updated_at": "2026-06-26 21:01:41",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -660,10 +660,10 @@
               "wins": 3,
               "draws": 0,
               "losses": 0,
-              "goals_for": 7,
-              "goals_against": 1,
-              "goal_difference": "+6",
-              "last_six": "WW"
+              "goals_for": 10,
+              "goals_against": 2,
+              "goal_difference": "+8",
+              "last_six": "WWW"
             },
             {
               "rank": 2,
@@ -678,10 +678,10 @@
               "wins": 2,
               "draws": 0,
               "losses": 1,
-              "goals_for": 7,
-              "goals_against": 4,
-              "goal_difference": "+3",
-              "last_six": "WW"
+              "goals_for": 8,
+              "goals_against": 7,
+              "goal_difference": "+1",
+              "last_six": "LWW"
             },
             {
               "rank": 3,
@@ -696,9 +696,9 @@
               "wins": 1,
               "draws": 0,
               "losses": 2,
-              "goals_for": 4,
+              "goals_for": 8,
               "goals_against": 6,
-              "goal_difference": "-2",
+              "goal_difference": "+2",
               "last_six": "LL"
             },
             {
@@ -715,8 +715,8 @@
               "draws": 0,
               "losses": 3,
               "goals_for": 1,
-              "goals_against": 8,
-              "goal_difference": "-7",
+              "goals_against": 12,
+              "goal_difference": "-11",
               "last_six": "LL"
             }
           ]
@@ -1038,6 +1038,24 @@
             {
               "rank": 5,
               "rank_status": "16th Finals",
+              "team_id": "2wk1549tkz80oet8226euj7jp",
+              "team_name": "Senegal",
+              "team_short_name": "Senegal",
+              "team_code": "SEN",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/senegal.png",
+              "points": 3,
+              "matches_played": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 2,
+              "goals_for": 8,
+              "goals_against": 6,
+              "goal_difference": "+2",
+              "last_six": ""
+            },
+            {
+              "rank": 6,
+              "rank_status": "16th Finals",
               "team_id": "4njsfszcgd9m765d6suktsz2a",
               "team_name": "Croatia",
               "team_short_name": "Croatia",
@@ -1054,7 +1072,7 @@
               "last_six": ""
             },
             {
-              "rank": 6,
+              "rank": 7,
               "rank_status": "16th Finals",
               "team_id": "1yghbv1c71b37eenutbwnvvq",
               "team_name": "Korea Republic",
@@ -1069,24 +1087,6 @@
               "goals_for": 2,
               "goals_against": 3,
               "goal_difference": "-1",
-              "last_six": ""
-            },
-            {
-              "rank": 7,
-              "rank_status": "16th Finals",
-              "team_id": "2wk1549tkz80oet8226euj7jp",
-              "team_name": "Senegal",
-              "team_short_name": "Senegal",
-              "team_code": "SEN",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/senegal.png",
-              "points": 3,
-              "matches_played": 3,
-              "wins": 1,
-              "draws": 0,
-              "losses": 2,
-              "goals_for": 4,
-              "goals_against": 6,
-              "goal_difference": "-2",
               "last_six": ""
             },
             {
