@@ -1,7 +1,7 @@
 {
   "source": "SBS FIFA Standings",
   "tournament_id": "873cbl9cd9butm4air0mugxzo",
-  "updated_at": "2026-06-27 22:53:35",
+  "updated_at": "2026-06-27 23:53:07",
   "stages": [
     {
       "stage_id": "87i5eesbymvgzmz5d0y4a855g",
@@ -813,10 +813,10 @@
               "team_short_name": "Colombia",
               "team_code": "COL",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/colombia.png",
-              "points": 6,
-              "matches_played": 2,
+              "points": 7,
+              "matches_played": 3,
               "wins": 2,
-              "draws": 0,
+              "draws": 1,
               "losses": 0,
               "goals_for": 4,
               "goals_against": 1,
@@ -831,10 +831,10 @@
               "team_short_name": "Portugal",
               "team_code": "POR",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/portugal.png",
-              "points": 4,
-              "matches_played": 2,
+              "points": 5,
+              "matches_played": 3,
               "wins": 1,
-              "draws": 1,
+              "draws": 2,
               "losses": 0,
               "goals_for": 6,
               "goals_against": 1,
@@ -844,38 +844,38 @@
             {
               "rank": 3,
               "rank_status": "Possible 16th Finals",
+              "team_id": "elayenut7wtobtmg7hyujzdoe",
+              "team_name": "Uzbekistan",
+              "team_short_name": "Uzbekistan",
+              "team_code": "UZB",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/uzbekistan.png",
+              "points": 3,
+              "matches_played": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 2,
+              "goals_for": 2,
+              "goals_against": 8,
+              "goal_difference": "-6",
+              "last_six": "LL"
+            },
+            {
+              "rank": 4,
+              "rank_status": "",
               "team_id": "dd4ko7d3muqheb54u1s9k39p3",
               "team_name": "Congo DR",
               "team_short_name": "Congo DR",
               "team_code": "COD",
               "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/congo-dr.png",
               "points": 1,
-              "matches_played": 2,
+              "matches_played": 3,
               "wins": 0,
               "draws": 1,
-              "losses": 1,
-              "goals_for": 1,
-              "goals_against": 2,
-              "goal_difference": "-1",
-              "last_six": "LD"
-            },
-            {
-              "rank": 4,
-              "rank_status": "",
-              "team_id": "elayenut7wtobtmg7hyujzdoe",
-              "team_name": "Uzbekistan",
-              "team_short_name": "Uzbekistan",
-              "team_code": "UZB",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/uzbekistan.png",
-              "points": 0,
-              "matches_played": 2,
-              "wins": 0,
-              "draws": 0,
               "losses": 2,
               "goals_for": 1,
-              "goals_against": 8,
-              "goal_difference": "-7",
-              "last_six": "LL"
+              "goals_against": 3,
+              "goal_difference": "-2",
+              "last_six": "LD"
             }
           ]
         },
@@ -900,7 +900,7 @@
               "goals_for": 6,
               "goals_against": 2,
               "goal_difference": "+4",
-              "last_six": "DW"
+              "last_six": "WDW"
             },
             {
               "rank": 2,
@@ -918,7 +918,7 @@
               "goals_for": 5,
               "goals_against": 5,
               "goal_difference": "0",
-              "last_six": "WL"
+              "last_six": "WWL"
             },
             {
               "rank": 3,
@@ -936,7 +936,7 @@
               "goals_for": 2,
               "goals_against": 2,
               "goal_difference": "0",
-              "last_six": "DW"
+              "last_six": "LDW"
             },
             {
               "rank": 4,
@@ -954,7 +954,7 @@
               "goals_for": 0,
               "goals_against": 4,
               "goal_difference": "-4",
-              "last_six": "LL"
+              "last_six": "LLL"
             }
           ]
         },
@@ -1146,6 +1146,24 @@
             {
               "rank": 11,
               "rank_status": "",
+              "team_id": "elayenut7wtobtmg7hyujzdoe",
+              "team_name": "Uzbekistan",
+              "team_short_name": "Uzbekistan",
+              "team_code": "UZB",
+              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/uzbekistan.png",
+              "points": 3,
+              "matches_played": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 2,
+              "goals_for": 2,
+              "goals_against": 8,
+              "goal_difference": "-6",
+              "last_six": ""
+            },
+            {
+              "rank": 12,
+              "rank_status": "",
               "team_id": "9l06impjllgop0gte8fldb4zo",
               "team_name": "Uruguay",
               "team_short_name": "Uruguay",
@@ -1158,24 +1176,6 @@
               "losses": 1,
               "goals_for": 3,
               "goals_against": 4,
-              "goal_difference": "-1",
-              "last_six": ""
-            },
-            {
-              "rank": 12,
-              "rank_status": "",
-              "team_id": "dd4ko7d3muqheb54u1s9k39p3",
-              "team_name": "Congo DR",
-              "team_short_name": "Congo DR",
-              "team_code": "COD",
-              "team_logo": "https://wsrv.nl/?url=https://sbs.livelikeapp.com/images/teamLogos/fifaWorldCup/congo-dr.png",
-              "points": 1,
-              "matches_played": 2,
-              "wins": 0,
-              "draws": 1,
-              "losses": 1,
-              "goals_for": 1,
-              "goals_against": 2,
               "goal_difference": "-1",
               "last_six": ""
             }
